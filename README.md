@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # mobile_vue2_vant2
 
 ## Project setup
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# MJ_Mobile
+>>>>>>> 421f380cee8eedba97112d907bfb267bf7d141b4
